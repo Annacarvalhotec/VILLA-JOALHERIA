@@ -3,7 +3,7 @@
         <div class="contatos-secao">
             <div>
                 <i class="fas fa-phone"></i>
-                <span>(21) 0000000</span>
+                <span>(21) 23468765</span>
             </div>
             <div>
                 <i class="fab fa-instagram"></i>

@@ -1,7 +1,7 @@
 <header>
             <div class="content">
                 <div class="logo">
-                    <img src="./img/PEROLA LUXO.jpg" alt="PÉROLA">
+                    <img src="img/VJ.png" alt="logo">
                     <h3>VILLA JOALHERIA</h3>
                 </div>
                 <ul class="list-menu">

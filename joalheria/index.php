@@ -25,7 +25,7 @@
                 </p>
             </div>     
             <div class="img-joias">
-                <img src="./img/PEROLA LUXO.jpg" alt="PÉROLA">
+                <img src="./img/VJ.png" alt="PÉROLA">
             </div>
         </div>    
     </section>
@@ -35,116 +35,52 @@
 
             <div class="container-fluid itens-">
                 <div class="row">
-                <div class="pulseira bebê">
-                    <img src="./img/pulseira de bebe morangos.jfif" alt="pulseira">
-                    <div class="info">
-                        <h3>Colar Infantil</h3>
-                        <h4>prata <span>R$300,00</span></h4>
-                        <h4>ouro <span>R$400,00</span></h4>
-                        <h4>ouro branco <span>R$500,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div>   
-                </div>
-                <div class="pulseira bebê">
-                    <img src="./img/pulseira de bebe.jfif" alt="pulseira">
-                    <div class="info">
-                        <h3>Pulseira Infantil</h3>
-                        <h4>prata <span>R$300,00</span></h4>
-                        <h4>ouro <span>R$400,00</span></h4>
-                        <h4>ouro branco <span>R$500,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                
-                </div>
-                <div class="pulseira">
-                    <img src="./img/unnamed.jpg" alt="colar">
-                    <div class="info">
-                        <h3>Pulseiras para Adultos</h3>
-                        <h4>prata <span>R$300,00</span></h4>
-                        <h4>ouro <span>R$400,00</span></h4>
-                        <h4>ouro branco <span>R$500,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                
-                </div>
-                <div class="anéis">
-                    <img src="./img/unnamed.jpg" alt="anél">
-                    <div class="info">
-                        <h3>Anéis</h3>
-                        <h4>prata <span>R$300,00</span></h4>
-                        <h4>ouro <span>R$400,00</span></h4>
-                        <h4>ouro branco <span>R$500,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                
-                </div>
-                <div class="anéis">
-                    <img src="./img/unnamed.jpg" alt="anél">
-                    <div class="info">
-                        <h3>Anéis</h3>
-                        <h4>prata <span>R$300,00</span></h4>
-                        <h4>ouro <span>R$400,00</span></h4>
-                        <h4>ouro branco <span>R$500,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                
-                </div>
-                <div class="brincos">
-                    <img src="./img/unnamed.jpg" alt="brincos">
-                    <div class="info">
-                        <h3>Brincos</h3>
-                        <h4>prata<span>R$300,00</span></h4>
-                        <h4>ouro <span>R$400,00</span></h4>
-                        <h4>ouro branco <span>R$500,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                
-                </div>
-                <div class="pulseira masculina">
-                    <img src="./img/unnamed.jpg" alt="pulseira">
-                    <div class="info">
-                        <h3>Pulseira Masculina</h3>
-                        <h4>prata <span>R$350,00</span></h4>
-                        <h4>ouro <span>R$450,00</span></h4>
-                        <h4>ouro branco <span>R$550,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                
-                </div>
-                <div class="colar masculino">
-                    <img src="./img/unnamed.jpg" alt="Colar">
-                    <div class="info">
-                        <h3>Colar Masculino</h3>
-                        <h4>prata <span>R$400,00</span></h4>
-                        <h4>ouro <span>R$450,00</span></h4>
-                        <h4>ouro branco <span>R$550,00</span></h4>
-                        <button class="pedir">pedir agora</button>
-                    </div> 
-                </div>
-                    <div class="anéis masculinos">
-                        <img src="./img/unnamed.jpg" alt="anéis">
-                        <div class="info">
-                            <h3>Anéis</h3>
-                            <h4>prata <span>R$350,00</span></h4>
-                            <h4>ouro <span>R$450,00</span></h4>
-                            <h4>ouro branco <span>R$550,00</span></h4>
-                            <button class="pedir">pedir agora</button>
-                        </div> 
-                    </div>
-                    <div class="brincos">
-                        <img src="./img/unnamed.jpg" alt="brincos">
-                        <div class="info">
-                            <h3>brincos</h3>
-                            <h4>prata <span>R$300,00</span></h4>
-                            <h4>ouro <span>R$400,00</span></h4>
-                            <h4>ouro branco <span>R$500,00</span></h4>
-                            <button class="pedir">pedir agora</button>
+
+                    <div class="col-md-3">
+                        <div class="pulseira bebê">
+                             <img src="./img/feminina.webp" alt="pulseira" style=width:300px;height:300px;>
+                            <div class="info">
+                                <h3>Coleção feminina</h3>                                
+                               
+                            </div>   
                         </div>
                     </div>
-                   
+
+
+                    <div class="col-md-3">
+                        <div class="pulseira bebê">
+                            <img src="./img/masculino.jpg" alt="pulseira" style=width:300px;height:300px;>
+                            <div class="info">
+                                <h3>coleção masculina</h3>
+                                
+                            </div>                         
+                        </div>
+                    </div>
+
+                <div class="col-md-3">
+                    <div class="pulseira">
+                        <img src="./img/infantil.jpeg" alt="colar" style=width:300px;height:300px;>
+                        <div class="info">
+                            <h3>Coleção infantil</h3>
+                            
+                        </div>                 
+                    </div>
                 </div>
-                
+
+                <div class="col-md-3">
+                    <div class="anéis">
+                        <img src="./img/acessorio.webp" alt="anél" style=width:300px;height:300px;>
+                        <div class="info">
+                            <h3>Acessorios</h3>
+                            ,
+                        </div>                 
+                    </div>
+                </div>
+
             </div>
+
+
+                       </div>
 
     </section>
 
