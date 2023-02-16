@@ -11,8 +11,7 @@
             <h1></h1>
             <h2>Deixe-nos realizar Seu Sonho,Temos As Melhores Joias</h2>
             <div class="btn">
-                <button class="reservar">Reserve a sua!</button>
-                <button class="montar">Monte seu pedido!</button>
+                
             </div>
         </div>    
     </section>    
@@ -38,7 +37,7 @@
 
                     <div class="col-md-3">
                         <div class="pulseira bebê">
-                             <img src="./img/feminina.webp" alt="pulseira" style=width:300px;height:300px;>
+                            <a href="feminina.php"> <img src="./img/feminina.webp" alt="pulseira" style=width:300px;height:300px;></a>
                             <div class="info">
                                 <h3>Coleção feminina</h3>                                
                                
@@ -49,7 +48,7 @@
 
                     <div class="col-md-3">
                         <div class="pulseira bebê">
-                            <img src="./img/masculino.jpg" alt="pulseira" style=width:300px;height:300px;>
+                            <a href="masculino.php"><img src="./img/masculino.jpg" alt="pulseira" style=width:300px;height:300px;></a>
                             <div class="info">
                                 <h3>coleção masculina</h3>
                                 
@@ -59,7 +58,7 @@
 
                 <div class="col-md-3">
                     <div class="pulseira">
-                        <img src="./img/infantil.jpeg" alt="colar" style=width:300px;height:300px;>
+                    <a href="infantil.php"><img src="./img/infantil.jpeg" alt="colar" style=width:300px;height:300px;></a>
                         <div class="info">
                             <h3>Coleção infantil</h3>
                             
@@ -69,7 +68,7 @@
 
                 <div class="col-md-3">
                     <div class="anéis">
-                        <img src="./img/acessorio.webp" alt="anél" style=width:300px;height:300px;>
+                    <a href="acessorios.php"><img src="./img/acessorio.webp" alt="anél" style=width:300px;height:300px;></a>
                         <div class="info">
                             <h3>Acessorios</h3>
                             ,
