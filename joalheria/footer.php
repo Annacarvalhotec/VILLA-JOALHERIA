@@ -7,11 +7,11 @@
             </div>
             <div>
                 <i class="fab fa-instagram"></i>
-                <span>@JOIASVILLA</span>
+                <span>@JOIASVILLALOBOS</span>
             </div>
             <div>
                 <i class="fab fa-facebook-f"></i>
-                <span>JOIAS VILLA</span>
+                <span>JOIAS VILLALOBOS</span>
             </div>
         </div>
     </section>

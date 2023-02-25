@@ -36,7 +36,7 @@
                 <div class="row">
 
                     <div class="col-md-3">
-                        <div class="pulseira bebê">
+                        <div class="pulseira feminina">
                             <a href="feminina.php"> <img src="./img/feminina.webp" alt="pulseira" style=width:300px;height:300px;></a>
                             <div class="info">
                                 <h3>Coleção feminina</h3>                                
@@ -47,7 +47,7 @@
 
 
                     <div class="col-md-3">
-                        <div class="pulseira bebê">
+                        <div class="pulseira masculina">
                             <a href="masculino.php"><img src="./img/masculino.jpg" alt="pulseira" style=width:300px;height:300px;></a>
                             <div class="info">
                                 <h3>coleção masculina</h3>
@@ -57,7 +57,7 @@
                     </div>
 
                 <div class="col-md-3">
-                    <div class="pulseira">
+                    <div class="pulseira bebe">
                     <a href="infantil.php"><img src="./img/infantil.jpeg" alt="colar" style=width:300px;height:300px;></a>
                         <div class="info">
                             <h3>Coleção infantil</h3>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div class="col-md-3">
-                    <div class="anéis">
+                    <div class="acessorios">
                     <a href="acessorios.php"><img src="./img/acessorio.webp" alt="anél" style=width:300px;height:300px;></a>
                         <div class="info">
                             <h3>Acessorios</h3>

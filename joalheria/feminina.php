@@ -5,6 +5,7 @@
     require 'menu.php';
     include_once 'conexao.php';
 
+
     $pagatual = filter_input(INPUT_GET, "page", FILTER_SANITIZE_NUMBER_INT);
 	$pag = (!empty($pagatual)) ? $pagatual : 1;
 
